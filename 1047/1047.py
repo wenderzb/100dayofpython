@@ -1,24 +1,22 @@
-#include <stdio.h>
+inicialHoras,inicialMinutos,finalHoras,finalMinutos=input().split()
+inicialHoras = int(inicialHoras)
+inicialMinutos = int(inicialMinutos)
+finalHoras = int(finalHoras)
+finalMinutos = int(finalMinutos)
 
-entrada = input("").split()
-
-hora_inicial, minuto_inicial, hora_final, minuto_final = entrada
-
-hora_inicial = int(entrada[0])
-minuto_inicial = int(entrada[1])
-hora_final = int(entrada[2])
-minuto_final = int(entrada[3])
-
-calculo_horas = hora_inicial - hora_final
-calculo_minutos = minuto_inicial - minuto_final
-
-duracao_minutos = calculo_minutos * -1 if calculo_minutos <= 0 else 60 - calculo_minutos
-
-if duracao_minutos >= 0:
-    duracao_horas =  (24 - (calculo_horas * -1)) - 1 if calculo_horas == 0 else (calculo_horas * -1) - 1 ;
+if(inicialHoras >= finalHoras):
+    horas = (24-inicialHoras)+ finalHoras
 else:
-    duracao_horas = 24 - (calculo_horas * -1) if calculo_horas <= 0 else calculo_horas
+    horas = finalHoras - inicialHoras
 
-
-
-print('O JOGO DUROU {0} HORA(S) E {1} MINUTO(S)'.format(duracao_horas, duracao_minutos))
+if(inicialMinutos > finalMinutos):
+    minutos = 60 - (inicialMinutos - finalMinutos)
+    horas -= 1
+if(inicialMinutos < finalMinutos):
+    minutos = finalMinutos - inicialMinutos
+    if(horas==24):
+        horas=0
+if(inicialMinutos == finalMinutos):
+    minutos = 0
+    
+print("O JOGO DUROU",horas,"HORA(S) E",minutos,"MINUTO(S)")
