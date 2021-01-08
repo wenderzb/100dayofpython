@@ -20,6 +20,7 @@ for item in range(5):
     elif int(lista_entrada[item]) < 0:
         negativos += 1
 
+
 print("{0} valor(es) par(es)".format(pares))
 print("{0} valor(es) impar(es)".format(impares))
 print("{0} valor(es) positivo(s)".format(positivos))
