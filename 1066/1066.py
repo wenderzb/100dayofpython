@@ -5,7 +5,7 @@ negativos = 0
 pares = 0
 impares = 0 
 
-for item in range(5):
+for item in range(6):
     lista_entrada.append(input())
     resto = int(lista_entrada[item]) % 2
 
