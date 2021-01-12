@@ -1,0 +1,153 @@
+Roadmap Python - #100dayofpython
+-> Link Referencia: https://dev.to/hb/python-developer-roadmap-in-2021-2bmo
+
+Conteudo
+
+1) Fundamentos
+1.1) Python 3 vs Python 2
+1.2) Como funciona o Python
+1.3) Tipos de dados e suas operações
+1.4) Indentation
+1.5) Logical Operators
+1.6) Conditionals - If, Else, Else if, Truthy, Falsey
+1.7) Loops: for, while, loop control statements(break, continue, etc)
+1.8) Functions: Scope, parameters, arguments, return
+1.9) Built-in Functions
+1.10) Commenting: single-line, multi-line, docstrings
+
+2) Advanced Python
+2.1) OOP
+2.2) Classes
+2.3) Dunder
+2.4) Methods
+2.5) Inheritance
+2.6) Decorators
+2.7) Functional Programming
+2.8) Lambda Functions
+2.9) Map, filter, zip, reduce
+2.10) Errors
+2.11) Errors: try, except
+2.12) File I/O
+2.13) Regex
+2.14) Testing, unittest
+2.15) Import
+2.16) Packages
+2.17) Pip
+2.18) Virtual Environments
+2.19) Debugging
+
+3) Popular Libraries
+3.1) Tkinter
+3.2) Requests
+3.3) Pillow
+3.4) PyQT
+3.5) PyGame
+
+4) Computer Science
+4.1) Time Complexity
+4.2) Spare Complexity
+4.3) Big O Notation
+4.4) Data Structures
+4.5) Algorithms
+
+5) Web Scrapping
+5.1) Beautiful soup
+5.2) Selenium
+5.3) Scrapy
+
+Project ideas:
+-> Hacker News Scraper
+-> Dev.to Scraper
+-> Amazon Price Tracker
+-> Jobs Portal Scraper
+-> COVID-19 Web Scraper
+
+6) Web Development
+6.1) Django
+6.2) Flask
+6.3) Zappa
+6.4) Dash
+
+Project ideas:
+-> Login System
+-> Portfolio
+-> Blog Site
+-> Todo App
+-> Ecommerce website
+
+7) Scripting
+7.1) DevOps: Docker e Kubernetes
+7.2) System Admin
+
+Project ideas:
+-> Automate the Boring Stuff
+-> Create a Calculator
+-> Contact Book
+-> Directory Tree Generator
+-> Expense Tracker
+
+8) Ethical Hacking
+8.1) SQL injection
+8.2) Session hijacking
+8.3) Man in the Middle
+8.4) Networking
+8.5) IP Adress
+8.6) Exploitation
+8.7) Social Engineering
+8.8) Pen Testing
+8.9) Footprinting
+8.10) Firewall
+
+Project ideas:
+-> Hacking wireless networks
+-> Create a vulnerable site and hack it
+-> Password cracker
+-> Web Application Pen Testing
+-> Break A Caesar Cipher
+
+9) Machine Learning/Data Science
+9.1) Tensorflow
+9.2) PyTorch
+9.3) Keras
+9.4) Scikit-learn
+9.5) Numpy
+9.6) Pandas
+9.7) Matplotlib
+9.8) Seaborn
+9.9) Neural Networks
+9.10) Machine Learning Algorithms
+9.11) Data
+Link de referencia: https://dev.to/hb/30-machine-learning-ai-data-science-project-ideas-gf5 
+
+Project ideas:
+1) Projeto de sobrevivência do Titanic(iniciantes)
+2) Chatbot
+3) Projeto de análise de sentimento
+4) Projeto de legendagem de imagens
+5) Converter imagem em projeto de esboço de lápis(iniciantes)
+6) Segmentação de clientes
+7) Projeto MNIST(iniciantes)
+8) Sistema de reconhecimento facial
+9) AI joga Flappy Bird(iniciantes)
+10) Números de sorteio de IA
+11) Detector de cores(iniciantes)
+12) Detector de noticias falsas
+13) Projeto de reconhecimento de sinais de trânsito
+14) Análise de Jogador FIFA 19(iniciantes)
+15) Projeto de visualização de dados de falhas de avião
+16) Projeto de Visualização e Previsão COVID-19
+17) Projeto de detecção de veículos em tempo real
+18) AI joga futebol/futebol
+19) Prever as pontuações dos testes dos alunos(iniciantes)
+20) Cartoonificar uma imagem 
+21) Crie caras falsas 
+22) Projeto de detector de máscara(iniciantes)
+23) Detector de distanciamento social
+24) Reconhecimento de caligrafia
+25) Detecção de spam de email
+26) Abelha ou vespa(iniciantes)
+27) Combinação de presente de Natal
+28) Geração de Texto
+29) AI Plays Connect-4
+30) Damas AI
+ 
