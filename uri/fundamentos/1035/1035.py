@@ -1,4 +1,4 @@
-x = input().split()
+entradas = input().split()
 a, b, c, d = x
 a = int(a)
 b = int(b)
