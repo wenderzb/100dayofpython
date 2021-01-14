@@ -7,4 +7,4 @@
 - Try to come up with a clean and elegant solution
 - Always write tests (and make them pass)
 
-Days completed: 11
+Days completed: 12
